@@ -147,6 +147,7 @@ Stable Diffusion 1.5, U-Net, DreamBooth LoRA, IP-Adapter, InstructPix2Pix, WGAN,
 * Töyrylä, H. (2019). Taming the GAN. [online] Liipetti. Available at: [https://liipetti.net/visual/taming-the-gan/](https://liipetti.net/visual/taming-the-gan/).
 * transmediale (n.d.). The finiteness of algorithms. [online] transmediale archive. Available at: [https://archive.transmediale.de/content/the-finiteness-of-algorithms](https://archive.transmediale.de/content/the-finiteness-of-algorithms) [Accessed 21 May 2026].
 * VADS (n.d.). Goldsmiths Textile Collection. [online] Available at: [https://vads.ac.uk](https://vads.ac.uk).
+* https://huggingface.co/spaces/r3gm/wan2-2-fp8da-aoti-preview 
 * Wasielewski, A. (2023). Computational formalism: Art history and machine learning. Cambridge, MA: MIT Press.
 * Weiss, S. (n.d.). The Chair Project: Generating a Classic. [online] Available at: [https://steffen-weiss.design/the-chair-project-generating-a-classic](https://steffen-weiss.design/the-chair-project-generating-a-classic).
 * Zylinska, J. (2020). AI art: Machine visions and warped dreams. London: Open Humanities Press.
