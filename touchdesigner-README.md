@@ -11,7 +11,7 @@ The `.toe` files are the TouchDesigner networks used to build the visuals for th
 | File | Role |
 |---|---|
 | `collected_7.toe` | Main network for **the collected** — compositing the sculpture/character into its scenes |
-| `collection_summer.toe` | Collection sequence — arranging generated artworks together |
+| `collection_summer.toe` | Effect |
 | `CFP-video-and-slitscans_35.toe` | Video processing and **slit-scan** treatments (time-smeared frames) |
 | `matrixboxtd.toe` | **Matrix / grid** effect network |
 | `xrf_2.toe` | Effect / processing network |
