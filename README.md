@@ -80,7 +80,7 @@ See [`touchdesigner/README.md`](touchdesigner/README.md).
 
 ## Tools
 
-Stable Diffusion 1.5, U-Net, DreamBooth LoRA, IP-Adapter, InstructPix2Pix, WGAN, ComfyUI, Python, PyCharm, MuJoCo, Gymnasium, Stable-Baselines3, three.js, TouchDesigner. All models were trained and merged locally; no pre-built generative service was used.
+Stable Diffusion 1.5, U-Net, DreamBooth LoRA, IP-Adapter, InstructPix2Pix, WGAN, ComfyUI, Python, PyCharm, MuJoCo, Gymnasium, Stable-Baselines3, three.js, TouchDesigner. Models were trained and merged locally, WGAN is trained in MATLAB, generative AI is used in Huggingface, ElevenLabs, Gemini.
 
 ---
 
