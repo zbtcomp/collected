@@ -1,6 +1,6 @@
 # The Collected
 
-*Art happens in different forms. I am interested in changing forms. I am interested in machine learning.*
+*Trained with art collections and a cemetery dataset, this project questions the change of forms, time and condition of mediums. Looking at AI as an intermediary to create computational and algorithmic narratives, the work deals with ‘what does it mean to be made of?’.*
 
 This repository holds the code for **The Collected** — a project that trains models on museum and personal archives, fuses two of them into a single model, and gives the resulting output a body, a world, and eventually the ability to move. The physical work (3D prints, heatpress and UV prints, the installation) lives offline; what is versioned here is the machine-learning, simulation, and real-time code behind it.
 
@@ -8,9 +8,9 @@ This repository holds the code for **The Collected** — a project that trains m
 
 ## Concept
 
-Cemeteries are museums that contain humans as datasets. Merging art collections — many containing figures that are dead — is a way of learning stories, techniques, fictions, historical and social elements. The project asks: how would an AI collection look, and what does it tell us? What medium is a human being? What medium is time? What does it mean to be made of?
+Art happens in different forms. I am interested in changing forms. Cemeteries are museums that contain humans as datasets. Merging art collections — many containing figures that are dead — is a way of learning stories, techniques, fictions, historical and social elements. The project asks: how would an AI collection look, and what does it tell us? What medium is a human being? What medium is time? What does it mean to be made of?
 
-The central sculpture, **the collected**, is a clear resin 3D print made from a model trained on sculpture pictures of the collection. Across the work it stops being an object and becomes a character: a sculpture from an AI collection, living in the latent space.
+The central sculpture, **the collected**, is a clear resin 3D print made from a model trained on sculpture pictures of the collection. Across the work it stops being an object and becomes a character: a sculpture from an AI collection, living in the latent space. The moving image work explores the computational narrative and theory in this context.
 
 ---
 
