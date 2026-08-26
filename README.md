@@ -90,4 +90,4 @@ Zylinska, J., 2020. *AI Art: Machine Visions and Warped Dreams*. London: Open Hu
 
 ---
 
-*I am the not-founder of this project. The work is not asked to carry my ideology; it stands on its own creation and its algorithmic behaviour.*
+
