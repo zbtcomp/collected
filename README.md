@@ -84,11 +84,6 @@ Stable Diffusion 1.5, U-Net, DreamBooth LoRA, IP-Adapter, InstructPix2Pix, WGAN,
 
 ---
 
-## Reference
-
-I acknowledge the use of artificial intelligence tools in the development of this project. AI models were used for generating code, refining text, generating visual and audio assets, and brainstorming concepts. All AI-generated content was heavily curated, edited, and directed by the author, who takes full responsibility for the final original work, research, and arguments presented in this submission.
-Akten, M.S. (2021). Deep visual instruments: Realtime continuous, meaningful human control over deep neural networks for creative expression. PhD thesis. Goldsmiths, University of London.
-Here is the text formatted cleanly as a Markdown list, perfect for dropping directly into your repository's `README.md` or documentation file. As requested, the text itself has not been changed.
 
 ### AI Declaration
 
