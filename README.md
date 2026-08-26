@@ -22,7 +22,7 @@ The central sculpture, **the collected**, is a clear resin 3D print made from a 
 | Two | Russell-Cotes Collection (36 photographs) | IP-Adapter conditioning | Structure — rooms, sculptures |
 | Three | My own cemetery photographs | WGAN | Movement — the video |
 
-Archives one and two are **fused**: an InstructPix2Pix model is trained on paired data (`transform this scene into a heavy Goldsmiths textile tapestry`) and the LoRA weights are merged into it, so neither collection is imitating the other any more — one model can no longer tell them apart. Archive three stays **separate** and drives the moving image.
+Archives one and two are **fused**: an InstructPix2Pix model is trained on paired data and the LoRA weights are merged into it, so neither collection is imitating the other any more — one model can no longer tell them apart. Archive three stays **separate** and drives the moving image.
 
 ---
 
